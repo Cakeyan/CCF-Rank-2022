@@ -1,6 +1,6 @@
 # 中国计算机学会推荐国际学术会议、期刊列表（2022年拟）
 
-<u>**下划**</u>：表示现在2019年第五版目录中，升级至A/B
+***斜体***：表示现在2019年第五版目录中，升级至A/B
 
 **加粗**：表示不在2019年第五版目录中， 直接申请A/B/C
 
@@ -22,7 +22,7 @@
 | 7      | ASPLOS      | International Conference  on Architectural Support for Programming Languages and Operating Systems | ACM       | http://dblp.uni-trier.de/db/conf/asplos/                     |
 | 8      | ISCA        | International Symposium on Computer Architecture             | ACM /IEEE | http://dblp.uni-trier.de/db/conf/isca/                       |
 | 9      | USENIX ATC  | USENIX Annual Technical Conference                           | USENIX    | http://dblp.uni-trier.de/db/conf/usenix/index.html           |
-| <u>**10**</u> | <u>**EuroSys**</u> | <u>**European Conference on Computer Systems**</u>       | <u>**ACM**</u> | <u>**http://dblp.uni-trier.de/db/conf/eurosys/**</u> |
+| ***10*** | ***EuroSys*** | ***European Conference on Computer Systems***       | ***ACM*** | ***http://dblp.uni-trier.de/db/conf/eurosys/*** |
 
 ### A 类期刊
 
@@ -33,7 +33,7 @@
 | 3     | TCAD     | IEEE Transactions on Computer-Aided Design  of Integrated Circuits And  System | IEEE    | http://dblp.uni-trier.de/db/journals/tcad/                   |
 | 4     | TC       | IEEE Transactions on Computers                               | IEEE    | http://dblp.uni-trier.de/db/journals/tc/index.html           |
 | 5     | TPDS     | IEEE Transactions on Parallel and  Distributed Systems       | IEEE    | http://dblp.uni-trier.de/db/journals/tpds/                   |
-| <u>**6**</u> | <u>**TACO**</u> | <u>**ACM Transactions on Architecture and  Code Optimization**</u> | <u>**ACM**</u> | <u>**http://dblp.uni-trier.de/db/journals/taco/**</u> |
+| ***6*** | ***TACO*** | ***ACM Transactions on Architecture and  Code Optimization*** | ***ACM*** | ***http://dblp.uni-trier.de/db/journals/taco/*** |
 
 ### B类会议
 
@@ -64,7 +64,7 @@
 | 23   | LISA        | Large Installation System Administration Conference          | USENIX   | http://dblp.uni-trier.de/db/conf/lisa/        |
 | 24   | MSST        | Mass Storage Systems and Technologies                        | IEEE     | http://dblp.uni-trier.de/db/conf/mss/         |
 | 25   | RTAS        | Real-Time and  Embedded Technology and Applications  Symposium | IEEE     | http://dblp.uni-trier.de/db/conf/rtas/        |
-| <u>**26**</u> | <u>**Euro-Par**</u> | <u>**European Conference on Parallel and  Distributed Computing**</u> | <u>**Springer**</u> | <u>**http://dblp.uni-trier.de/db/conf/europar/**</u> |
+| ***26*** | ***Euro-Par*** | ***European Conference on Parallel and  Distributed Computing*** | ***Springer*** | ***http://dblp.uni-trier.de/db/conf/europar/*** |
 
 ### B类期刊
 
@@ -229,7 +229,7 @@
 | 3     | [S&P](http://www.ieee-security.org/TC/SP-Index.html) | IEEE Symposium on Security and  Privacy                      | IEEE               | http://dblp.uni-trier.de/db/conf/sp/                         |
 | 4     | CRYPTO                                               | International Cryptology Conference                          | Springer           | http://dblp.uni-trier.de/db/conf/crypto/                     |
 | 5     | USENIX Security                                      | Usenix Security Symposium                                    | USENIX Association | http://dblp.uni-trier.de/db/conf/uss/                        |
-| <u>**6**</u> | <u>**NDSS**</u>                                  | <u>**ISOC Network and  Distributed System Security  Symposium**</u> | <u>**ISOC**</u> | <u>**http://dblp.uni-trier.de/db/conf/ndss/**</u> |
+| ***6*** | ***NDSS***                                  | ***ISOC Network and  Distributed System Security  Symposium*** | ***ISOC*** | ***http://dblp.uni-trier.de/db/conf/ndss/*** |
 
 ### A类期刊
 
@@ -326,7 +326,7 @@
 | 7      | ICSE                          | International Conference on Software Engineering             | ACM/IEEE                          | http://dblp.uni-trier.de/db/conf/icse/    |
 | 8      | ISSTA                         | International Symposium on Software Testing and Analysis     | ACM                               | http://dblp.uni-trier.de/db/conf/issta/   |
 | 9      | OSDI                          | USENIX Symposium on Operating Systems  Design and Implementations | USENIX                            | http://dblp.uni-trier.de/db/conf/osdi/    |
-| <u>**10**</u> | <u>**FM**</u>             | <u>**International Symposium on Formal Methods**</u>     | <u>**FME**</u>                | <u>**http://dblp.uni-trier.de/db/conf/fm/**</u> |
+| ***10*** | ***FM***             | ***International Symposium on Formal Methods***     | ***FME***                | ***http://dblp.uni-trier.de/db/conf/fm/*** |
 
 ### A类期刊
 
@@ -335,7 +335,7 @@
 | 1     | TOPLAS   | ACM Transactions on Programming Languages & Systems      | ACM      | http://dblp.uni-trier.de/db/journals/toplas/                 |
 | 2     | TOSEM    | ACM Transactions on Software Engineering and Methodology | ACM      | http://dblp.uni-trier.de/db/journals/tosem/                  |
 | 3     | TSE      | IEEE Transactions on Software Engineering                | IEEE     | http://dblp.uni-trier.de/db/journals/tse/                    |
-| <u>**4**</u> | <u>**TSC**</u> | <u>**IEEE Transactions on Services Computing**</u>   | <u>**IEEE**</u> | <u>**http://dblp.uni-trier.de/db/journals/tsc/**</u> |
+| ***4*** | ***TSC*** | ***IEEE Transactions on Services Computing***   | ***IEEE*** | ***http://dblp.uni-trier.de/db/journals/tsc/*** |
 
 ### B类会议
 
@@ -737,7 +737,7 @@
 | 10     | UAI       | International Conference on Uncertainty in Artificial  Intelligence | AUAI            | http://dblp.uni-trier.de/db/conf/uai/            |
 | 11     | AAMAS     | International Joint Conference on Autonomous Agents  and Multi-  agent Systems | Springer        | http://dblp.uni-trier.de/db/conf/atal/index.html |
 | 12     | PPSN      | Parallel Problem Solving from  Nature                        | Springer        | http://dblp.uni-trier.de/db/conf/ppsn/           |
-| <u>**13**</u> | <u>**NAACL**</u> | <u>**The Annual Conference of the  North American Chapter of the  Association  for Computational Linguistics**</u> | <u>**NAACL**</u> | <u>**http://dblp.uni-trier.de/db/conf/naacl/**</u> |
+| ***13*** | ***NAACL*** | ***The Annual Conference of the  North American Chapter of the  Association  for Computational Linguistics*** | ***NAACL*** | ***http://dblp.uni-trier.de/db/conf/naacl/*** |
 
 ### B类期刊
 
@@ -843,7 +843,7 @@
 | 1     | CSCW     | ACM Conference on Computer  Supported Cooperative Work  and Social Computing | ACM     | http://dblp.uni-trier.de/db/conf/cscw      |
 | 2     | CHI      | ACM Conference on Human Factors  in Computing Systems        | ACM     | http://dblp.uni-trier.de/db/conf/chi       |
 | 3     | UbiComp  | ACM  International Conference on Ubiquitous Computing        | ACM     | http://dblp.uni-trier.de/db/conf/huc/      |
-| <u>**4**</u> | <u>**UIST**</u> | <u>**ACM Symposium on User Interface Software  andTechnology**</u> | <u>**ACM**</u> | <u>**http://dblp.uni-trier.de/db/conf/uist/**</u> |
+| ***4*** | ***UIST*** | ***ACM Symposium on User Interface Software  andTechnology*** | ***ACM*** | ***http://dblp.uni-trier.de/db/conf/uist/*** |
 
 ### A类期刊
 
@@ -923,7 +923,7 @@
 | :-----: | :----------: | :--------------------------------------: | :------------------------------------: | :------------------------------------------------: |
 | 1     | JACM       | Journal of the ACM                     | ACM                                  | http://dblp.uni-trier.de/db/journals/jacm/       |
 | 2     | Proc. IEEE | Proceedings of the  IEEE               | IEEE                                 | http://dblp.uni-trier.de/db/journals/pieee/      |
-| <u>**3**</u> | <u>**SCIS**</u> | <u>**Science China Information Sciences**</u> | <u>**Science in China  Press/Springer**</u> | <u>**http://dblp.uni-trier.de/db/journals/chinaf/**</u> |
+| ***3*** | ***SCIS*** | ***Science China Information Sciences*** | ***Science in China  Press/Springer*** | ***http://dblp.uni-trier.de/db/journals/chinaf/*** |
 
 ### B类会议
 
@@ -957,7 +957,7 @@
 | 12     |           | PLOS Computational Biology                                   | Public Library of Science   | http://dblp.uni-trier.de/db/journals/ploscb/                 |
 | 13     |           | The Computer Journal                                         | Oxford University Press     | http://dblp.uni-trier.de/db/journals/cj/                     |
 | 14     |           | World Wide Web Journal                                       | Springer                    | https://www.springer.com/journal/11280 |
-| <u>**15**</u> | <u>**FCS**</u> | <u>**Frontiers of Computer Science**</u>                 | <u>**Higher Education  Press**</u> | <u>**http://dblp.uni-trier.de/db/journals/fcsc/**</u> |
+| ***15*** | ***FCS*** | ***Frontiers of Computer Science***                 | ***Higher Education  Press*** | ***http://dblp.uni-trier.de/db/journals/fcsc/*** |
 
 ### C类会议
 
